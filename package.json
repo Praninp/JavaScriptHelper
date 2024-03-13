@@ -1,0 +1,19 @@
+{
+  "name": "@praninp/javascript-helper",
+  "version": "1.1.1",
+  "description": "Javascript Helper methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "keywords": [
+    "Javascript",
+    "Helper"
+  ],
+  "author": "Praveen Pawar",
+  "license": "ISC",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  }
+}
